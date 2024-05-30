@@ -52,7 +52,7 @@ h1{
 h3{
 	font-size: 20px;
 	padding: 0;
-	transform: translate(0px, -5px) ;
+	transform: translate(0px, 15px) ;
 }
 
 .container{
@@ -356,6 +356,7 @@ div.scroll-container {
 	border-radius: 30px;
 	position: absolute;
 	transform: translate(350px, -90px);
+	padding: 20px 0px;
 	
 }
 
@@ -433,7 +434,7 @@ ul{
 	margin-bottom: 35px;
 	font-weight: 500;
 	position: absolute;
-	transform: translate(40px, -70px);
+	transform: translate(0px, -70px);
 }
 .footer-col h4::before{
 	content: '';
